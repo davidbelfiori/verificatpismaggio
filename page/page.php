@@ -14,10 +14,13 @@ session_start();
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.rawgit.com/mervick/emojionearea/master/dist/emojionearea.min.css">
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/sign-in/">
 </head>
 <body>
 <div class="titile">
-    <p>Visuale interventi di oggi</p>
+    <img class="mb-4" src="Black Autoparts In Gear, Auto Piston, Spark Plug And Wrench, Logo Design.svg" alt="" width="10%" height="5%">
+    <p style="align-items: center">Visuale interventi di oggi</p>
+
 </div>
 <div class="content">
 

@@ -1,14 +1,14 @@
 
-
 .titile{
     margin: auto;
     padding: 10px;
     font-size: 30px;
    display: flex;
-    flex-direction: column;
+    flex-direction: initial;
     align-items: center;
     font-family: 'Open-Sans', sans-serif;
-    background: gray;
+    background: #bcbebf;
+    border-left: 20em;
 }
 .content {
 width: 90%;
