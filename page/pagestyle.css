@@ -1,0 +1,24 @@
+
+
+.titile{
+    margin: auto;
+    padding: 10px;
+    font-size: 30px;
+   display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Open-Sans', sans-serif;
+    background: gray;
+}
+.content {
+width: 90%;
+padding: 5px;
+align-self: center;
+    margin-left: 5%;
+}
+.descrizione{
+
+    display: flex;
+    flex-direction: column;
+    font-family: 'Open-Sans', sans-serif;
+}

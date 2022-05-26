@@ -2,7 +2,7 @@
 $server = "localhost";
 $user = "root";
 $pass = "root";
-$database = "tpist";
+$database = "tpsit";
 
 $conn = mysqli_connect($server, $user, $pass, $database);
 
